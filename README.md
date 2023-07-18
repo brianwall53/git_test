@@ -1,2 +1,2 @@
-# git_test
+# odin-recipes
 Odin Project (Recipes)
